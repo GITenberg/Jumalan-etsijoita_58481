@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46854'
     url: http://www.gutenberg.org/2009/agents/46854
     wikipedia: https://fi.wikipedia.org/wiki/Heikki_Impiwaara
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Farrar, F. W. (Frederic William)
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3715
     wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Farrar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58481#Jumalan-etsijoita
 gutenberg_issued: '2018-12-16'
 gutenberg_type: Text
 identifiers:
